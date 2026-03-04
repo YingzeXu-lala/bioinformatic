@@ -1,8 +1,8 @@
 # Note of Week 1
 
-#### 本项目是徐英泽创建的  **生物信息学（2026春）**第一周课程笔记。
+#### 本项目是徐英泽创建的  *生物信息学（2026春* 第一周课程笔记。
 ***
-## &nbsp;**Bioinfo Introduction I. Big Data-driven**
+## &nbsp;**Bioinfo Introduction**
 #### 1. 4 steps of Bioinformatics 
 - **Question**
 - **Information**: Biological or Medical Data
