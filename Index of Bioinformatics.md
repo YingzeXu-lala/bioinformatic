@@ -7,4 +7,5 @@
 - [Week01: Introduction and Getting Start](https://github.com/YingzeXu-lala/bioinformatic/blob/main/Note%20of%20Week%201.md)
 - ……
 ## &nbsp;**课程规划**
-- [Schedule of Bioinformatics](https://github.com/YingzeXu-lala/bioinformatic/blob/main/Schedule%20of%20Bioinfomatics.md)
+- [Schedule of Bioinformatics](https://github.com/YingzeXu-lala/bioinformatic/blob/main/Schedule%20of%20Bioinformatics.md)
+
