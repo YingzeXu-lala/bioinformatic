@@ -24,7 +24,7 @@
 - **Big Data-driven Science**: Information - Analysis - Modeling - Question
 - *** Now Big Data-driven Science is the Fourth Paradigm***.
 #### 4. Model & Algorithm
-||Algorith|Modelm|
+||Algorithm|Modelm|
 |:---:|:---:|:---:|
 |定义|算法是一组明确的步骤或规则，用来解决问题或完成某个特定任务。|模型是算法在特定数据上学习得到的表示。在机器学习中，模型是通过算法从数据中学习得到的，它能够对新的数据进行预测或分类。模型通常包括参数和结构两部分，参数是模型在学习过程中调整的变量，结构则是模型的框架，定义了参数如何组合和相互作用。|
 |举例|动态规划算法|线性回归模型、神经网络模型|
