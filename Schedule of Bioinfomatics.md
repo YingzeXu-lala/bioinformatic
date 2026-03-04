@@ -48,4 +48,4 @@
 ***
 ## &nbsp;**[Tsinghua] 清华校历**
 
-![image-20260304153213367](C:\Users\54727\AppData\Roaming\Typora\typora-user-images\image-20260304153213367.png)
+![校历](https://github.com/YingzeXu-lala/bioinformatic/blob/main/image/%E6%A0%A1%E5%8E%86.png)
