@@ -51,4 +51,4 @@
 ***
 ## &nbsp;**[Tsinghua] 清华校历**
 
-![校历](https://github.com/YingzeXu-lala/bioinformatic/blob/main/image/校历.png)
+![校历](https://yingzexu-lala.github.io/bioinformatic/image/校历.png)
