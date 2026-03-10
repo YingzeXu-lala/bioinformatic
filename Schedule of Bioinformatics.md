@@ -10,6 +10,7 @@
 3. 每周花费**5h及以上**时间完成课后作业、复习课件以及练习[**Tutorial**](https://book.ncrnalab.org/teaching/)中内容。
 4. 使用**Github desktop**进行备份。
 ***
+
 ## &nbsp;**Part I. Programming Skills**
 
 |Week|Topic|Detail|
