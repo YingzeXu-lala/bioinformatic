@@ -4,10 +4,10 @@
 
 ***
 ## &nbsp;**笔记**
-- [Week01: Introduction and Getting Start](https://github.com/YingzeXu-lala/bioinformatic/blob/main/Note%20of%20Week%201.md)
+- [Week01: Introduction and Getting Start](https://yingzexu-lala.github.io/bioinformatic/Note of Week 1)
 - ……
 ## &nbsp;**课程规划**
-- [Schedule of Bioinformatics](https://github.com/YingzeXu-lala/bioinformatic/blob/main/Schedule%20of%20Bioinformatics.md)
+- [Schedule of Bioinformatics](https://yingzexu-lala.github.io/bioinformatic/Schedule of Bioinformatics)
 
 ## &nbsp;**作业**
-- [2.1 linux](https://github.com/YingzeXu-lala/bioinformatic/blob/main/2.1%20Linux/2.1%20Linux%20Basic%20Homework.md)
+- [2.1 linux](https://yingzexu-lala.github.io/bioinformatic/2.1 Linux/2.1 Linux Basic Homework

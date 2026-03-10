@@ -10,7 +10,7 @@
 - **Modeling**: Probabilistic Model & Computational Algorithm
 
 
-#### 2. **Type of** **NGS** **(Next Generation Sequencing)**
+#### 2. Type of NGS Next Generation Sequencing)
 - **DNA-seq**
 - **RNA-seq**
 - **Epigenetics**
