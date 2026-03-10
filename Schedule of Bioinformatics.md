@@ -1,6 +1,7 @@
 # Schedule of Bioinformatics
 
 #### 本项目是徐英泽创建的  *生物信息学（2026春）* 的学期学习计划。
+#### [返回引导页](https://yingzexu-lala.github.io/bioinformatic/)
 
 ***
 ## &nbsp;**Target**
