@@ -8,6 +8,8 @@
 - **Information**: Biological or Medical Data
 - **Analysis**: Data Clean and Feature Extraction
 - **Modeling**: Probabilistic Model & Computational Algorithm
+
+
 #### 2. **Type of** **NGS** **(Next Generation Sequencing)**
 - **DNA-seq**
 - **RNA-seq**
@@ -19,10 +21,14 @@
 	- Protein-DNA: ChIP-seq
 	- Protein-RNA: CLIP-seq
 	- DNA-RNA: Grid-seq
+
+
 #### 3. Question/Hypothesis-driven Science & Big Data-driven Science
 - **Question/Hypothesis-driven Science**: Question - Information - Analysis - Modeling
 - **Big Data-driven Science**: Information - Analysis - Modeling - Question
 - *** Now Big Data-driven Science is the Fourth Paradigm***.
+
+
 #### 4. Model & Algorithm
 ||Algorithm|Modelm|
 |:---:|:---:|:---:|
@@ -34,15 +40,21 @@
 ## &nbsp;**Getting Started**
 #### 1. Document my work
 - Github and Markdown
+
+
 #### 2. Backup my work
 - Cloud storage
 - Time Machine (Mac)
 - Github and Github Desktop (what I use) 
+
+
 #### 3. Text editor
 - Vim
 - Visual Studio Code
 - Jupyter Notebook
 - RStudio
+
+
 #### 4. Docker
 - 获得Linux运行环境
 - 封装软件，提高软件运行环境的可移植性
