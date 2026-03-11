@@ -14,3 +14,4 @@
 
 ## &nbsp;**作业**
 - [2.1 linux](https://yingzexu-lala.github.io/bioinformatic/2.1%20Linux/2.1%20Linux%20Basic%20Homework)
+- [2.2 linux](https://yingzexu-lala.github.io/bioinformatic/2.2%20Linux/2.2%20Linux%20Practice)
