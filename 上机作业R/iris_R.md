@@ -67,9 +67,9 @@ write.csv(res, "C:/Users/54727/Desktop/bioinformatic back up/bioinformatic/上�
 iris_summary.csv文件截图如下
 ![](https://yingzexu-lala.github.io/bioinformatic/上机作业R/iris_summary.png)
 
-并且提供超链接<a href="https://yingzexu-lala.github.io/bioinformatic/上机作业R/iris_summary.html">
-    iris_summary.csv
-</a>
+并且提供超链接[iris_summary.csv](https://yingzexu-lala.github.io/bioinformatic/上机作业R/iris_viewer.html)
+
+
 
 ### 3. 对不同Species的Sepal.Width进行One way ANOVA分析，提供代码和输出的结果。
 ```R
