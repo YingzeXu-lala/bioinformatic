@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h2>Iris Summary Statistics</h2>
+    <div id="csv-table"></div>
+
+    <script>
+        fetch('https://yingzexu-lala.github.io/bioinformatic/上机作业R/iris_summary.csv')
+            .then(response => response.text())
+            .then(data => {
+                const lines = data.trim().split('\n');
+                let html = '<tr>';
+                
+                // 表头
+                lines[0].split(',').forEach(cell => {
+                    html += `<th>${cell.replace(/"/g, '')}</th>`;
+                });
+                html += '</tr>';
+                
+                // 数据行
+                for (let i = 1; i < lines.length; i++) {
+                    html += '<tr>';
+                    lines[i].split(',').forEach(cell => {
+                        html += `<td>${cell.replace(/"/g, '')}</td>`;
+                    });
+                    html += '</tr>';
+                }
+                
+                document.getElementById('csv-table').innerHTML = `<table>${html}</table>`;
+            });
+    </script>
+</body>
+</html>
