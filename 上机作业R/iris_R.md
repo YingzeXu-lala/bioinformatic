@@ -7,13 +7,13 @@
 ```R
 library(datasets)
 > data (iris)
-> class (iris)			#数据集类型
+> class (iris)			# 数据集类型
 ```
 
 ### 1. Iris数据集有几列？每列的数据类型是什么
 ```R
 [1] "data.frame"
-> head (iris)			#数据集前六行数据
+> head (iris)			# 数据集前六行数据
 Sepal.Length Sepal.Width Petal.Length Petal.Width Species
 1          5.1         3.5          1.4         0.2  setosa
 2          4.9         3.0          1.4         0.2  setosa
@@ -21,9 +21,10 @@ Sepal.Length Sepal.Width Petal.Length Petal.Width Species
 4          4.6         3.1          1.5         0.2  setosa
 5          5.0         3.6          1.4         0.2  setosa
 6          5.4         3.9          1.7         0.4  setosa
-> ncol (iris)			#数据集列数
+> ncol (iris)			# 数据集列数
 [1] 5
-> str (iris)			#数据集结构，含每列数据的数据类型
+> str (iris)			
+# 数据集结构，含每列数据的数据类型，分别为num,num,num,num和Factor。
 'data.frame':	150 obs. of  5 variables:
  $ Sepal.Length: num  5.1 4.9 4.7 4.6 5 5.4 4.6 5 4.4 4.9 ...
  $ Sepal.Width : num  3.5 3 3.2 3.1 3.6 3.9 3.4 3.4 2.9 3.1 ...
