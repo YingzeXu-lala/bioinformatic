@@ -41,14 +41,14 @@ Sepal.Length Sepal.Width Petal.Length Petal.Width Species
 2 versicolor        5.936
 3  virginica        6.588
 > sd_res <- aggregate(Sepal.Length ~ Species, iris, sd)
-# 按Species列分组并计算方差
+# 按Species列分组并计算标准差
 > sd_res
      Species Sepal.Length
 1     setosa    0.3524897
 2 versicolor    0.5161711
 3  virginica    0.6358796
 > res <- merge(mean_res, sd_res, by = "Species")
-# 按Species项合并平均值与方差结果
+# 按Species项合并平均值与标准差结果
 > res
      Species Sepal.Length.x Sepal.Length.y
 1     setosa          5.006      0.3524897
