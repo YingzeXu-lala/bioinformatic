@@ -75,11 +75,14 @@ iris_summary.csv文件截图如下
 
 ### 3. 对不同Species的Sepal.Width进行One way ANOVA分析，提供代码和输出的结果。
 ```R
-> aov_result <- aov(Sepal.Width ~ Species, data = iris)
+> aov_result <- aov(Sepal.Width ~ Species, data = iris)	
+# Species为分组变量，Sepal.Width为响应变量
 > summary(aov_result)
+# 显示方差分析结果摘要表
              Df Sum Sq Mean Sq F value Pr(>F)    
-Species       2  11.35   5.672   49.16 <2e-16 ***		#组间变异
-Residuals   147  16.96   0.115                   		#组内变异
+Species       2  11.35   5.672   49.16 <2e-16 ***		# 组间变异
+Residuals   147  16.96   0.115                   		# 组内变异
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 ```
+
