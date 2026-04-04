@@ -19,4 +19,4 @@
 - [2.3 Blast](https://yingzexu-lala.github.io/bioinformatic/2.3%20Blast/2.3%20Blast%20Practice)
 - [上机作业_R_iris](https://yingzexu-lala.github.io/bioinformatic/上机作业R/iris_R)
 - [3.1 Mapping](https://yingzexu-lala.github.io/bioinformatic/3.1%20Mapping/3.1%20Mapping)
-- [3.2 Browser (点击下载文件)](https://yingzexu-lala.github.io/bioinformatic/3.2%20Browser/3.2%20Browser.pdf)
+- [3.2 Browser (pdf)](https://yingzexu-lala.github.io/bioinformatic/3.2%20Browser/3.2%20Browser.pdf)
