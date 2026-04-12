@@ -21,3 +21,4 @@
 - [3.1 Mapping](https://yingzexu-lala.github.io/bioinformatic/3.1%20Mapping/3.1%20Mapping)
 - [3.2 Browser (pdf)](https://yingzexu-lala.github.io/bioinformatic/3.2%20Browser/3.2%20Browser.pdf)
 - [1.2 Bedtools and Samtools](https://yingzexu-lala.github.io/bioinformatic/1.2%20bedtools/1.2%20bedtools)
+- [Appendix gene annotation](https://yingzexu-lala.github.io/bioinformatic/Appendix%20gene%20annotation/gene%20annotation)
