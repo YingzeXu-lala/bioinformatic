@@ -22,4 +22,4 @@
 - [3.2 Browser (pdf)](https://yingzexu-lala.github.io/bioinformatic/3.2%20Browser/3.2%20Browser.pdf)
 - [1.2 Bedtools and Samtools](https://yingzexu-lala.github.io/bioinformatic/1.2%20bedtools/1.2%20bedtools)
 - [Appendix gene annotation](https://yingzexu-lala.github.io/bioinformatic/Appendix%20gene%20annotation/gene%20annotation)
-- [上机作业_Plot_with_R_](https://yingzexu-lala.github.io/bioinformatic/上机作业Plot_with_R/i上机作业Plot_with_R)
+- [上机作业_Plot_with_R](https://yingzexu-lala.github.io/bioinformatic/上机作业Plot_with_R/上机作业Plot_with_R)
