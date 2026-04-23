@@ -30,20 +30,20 @@
 
 + labs(title = "Sepal Length Distribution", 
 +      x = "Species", 
-+      y = "Sepal Length")+
++      y = "Sepal Length") +
 # 设置x轴、y轴、标题的标签。
 
-+ scale_y_continuous(limits = c(3, 9))
++ scale_y_continuous(limits = c(3, 9)) +
 # 控制 y 轴（连续变量）的刻度、范围在3-9之间。
 
-+scale_fill_manual(values = c("#C4A5E2", "#55A86B", "#4C72B0"))
++scale_fill_manual(values = c("#C44E52", "#55A868", "#4C72B0")) +
 # 按变量水平顺序，依次赋予颜色。
 
 +theme_minimal() +  
 # 使用简洁主题
 
-+ theme(plot.title = element_text(hjust = 0.5, face = "bold"), legend.position = "none")
-# 标题对齐居中，字体加粗，不显示图例。
++ theme(plot.title = element_text(hjust = 0.5, face = "bold"))
+# 标题对齐居中，字体加粗。
 
 > print(p)
 
