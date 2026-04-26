@@ -24,3 +24,4 @@
 - [Appendix gene annotation](https://yingzexu-lala.github.io/bioinformatic/Appendix%20gene%20annotation/gene%20annotation)
 - [上机作业_Plot_with_R](https://yingzexu-lala.github.io/bioinformatic/上机作业Plot_with_R/上机作业Plot_with_R)
 - [2.1 Expression Matrix](https://yingzexu-lala.github.io/bioinformatic/2.1%20Expression%20Matrix/2.1%20Expression%20Matrix)
+- [3.1 GO_KEGG](https://yingzexu-lala.github.io/bioinformatic/3.1%20GO_KEGG/3.1%20GO_KEGG)
