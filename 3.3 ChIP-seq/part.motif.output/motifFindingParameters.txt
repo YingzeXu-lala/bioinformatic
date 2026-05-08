@@ -1,0 +1,1 @@
+cmd = homework/output/part.peak sacCer2 homework/output/part.motif.output -len 8
