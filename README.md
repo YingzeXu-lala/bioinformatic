@@ -27,3 +27,4 @@
 - [2.3 Different Expression](https://yingzexu-lala.github.io/bioinformatic/2.3%20Different%20Expression/2.3%20Different%20Expression)
 - [3.1 GO_KEGG](https://yingzexu-lala.github.io/bioinformatic/3.1%20GO_KEGG/3.1%20GO_KEGG)
 - [3.3 ChIP-seq](https://yingzexu-lala.github.io/bioinformatic/3.3%20ChIP-seq/3.3%20ChIP-seq)
+- [4.1 Machine Learning](https://yingzexu-lala.github.io/bioinformatic/4.1%20Machine%20Learning4.1%20Machine%20Learning)
